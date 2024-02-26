@@ -1,3 +1,2 @@
-- 👋 Salve, meu nome é Vinicius!
-- Cursando Desenvolvimento de Software Multiplataforma 
+- 👋 Salve, meu nome é Vinicius! Curso Desenvolvimento de Software Multiplataforma.
 
